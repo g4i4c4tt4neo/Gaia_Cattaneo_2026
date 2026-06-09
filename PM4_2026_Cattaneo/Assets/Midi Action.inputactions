@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Midi Action",
+    "maps": [
+        {
+            "name": "Midi Keyboard",
+            "id": "0a8c4729-e1a1-4301-9557-1339d3c59a73",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "71928fcb-c3c9-458e-ab9e-07a7ce2af1ac",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e8a04b29-effd-4137-aba6-c38b70989bd5",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
