@@ -1,0 +1,7 @@
+Implement this unity proximity feedback cpmponent with the following specs (dont'add anything more):
+
+1) intensity of the emissive colour material of the assignment target rendered. We're just using URP and the colour is HDR.
+2) Pitch property of assigned Audio Source.
+3) Intensity of Point Light.
+
+All of this properties/viaribles must follow the proximity sensor. 
