@@ -419,6 +419,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: BR_Wall_A_Edge_3m
       objectReference: {fileID: 0}
+    - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3009,7 +3013,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3395703467601928072, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 18
+      value: 19.47
       objectReference: {fileID: 0}
     - target: {fileID: 3395703467601928072, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
       propertyPath: m_LocalPosition.y
@@ -3050,6 +3054,10 @@ PrefabInstance:
     - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
       propertyPath: m_Name
       value: BR_Wall_A_Edge_3m
+      objectReference: {fileID: 0}
+    - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3295,6 +3303,10 @@ PrefabInstance:
     - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
       propertyPath: m_Name
       value: BR_Wall_A_Edge_3m
+      objectReference: {fileID: 0}
+    - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3729,6 +3741,10 @@ PrefabInstance:
     - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
       propertyPath: m_Name
       value: BR_Wall_A_Edge_3m
+      objectReference: {fileID: 0}
+    - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4433,6 +4449,10 @@ PrefabInstance:
     - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
       propertyPath: m_Name
       value: BR_Wall_A_Edge_3m
+      objectReference: {fileID: 0}
+    - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5510,6 +5530,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wndw_A_Grp
       objectReference: {fileID: 0}
+    - target: {fileID: 524763945915659342, guid: acc696d35b1f06c498c8fd0c53312bcd, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7214794066719350092, guid: acc696d35b1f06c498c8fd0c53312bcd, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12
@@ -5921,6 +5945,10 @@ PrefabInstance:
     - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
       propertyPath: m_Name
       value: BR_Wall_A_Edge_3m
+      objectReference: {fileID: 0}
+    - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6920,10 +6948,12 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1920767246}
   - {fileID: 1781310664}
   - {fileID: 1028386133}
   - {fileID: 1646367592}
   - {fileID: 1050546872}
+  - {fileID: 1437537486}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1096031569
@@ -7837,6 +7867,10 @@ PrefabInstance:
     - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
       propertyPath: m_Name
       value: BR_Wall_A_Edge_3m
+      objectReference: {fileID: 0}
+    - target: {fileID: 7319383687693755423, guid: 373c824d003df6248ba9d7be2f2127e3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9013,12 +9047,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1437537485}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 3.94268, y: -7.742449, z: 4.885599}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1094897237}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!143 &1444053641 stripped
 CharacterController:
@@ -12248,12 +12282,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1920767242}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 1.087, y: 1.07, z: 17.824}
   m_LocalScale: {x: 1.15, y: 1.15, z: 1.15}
   m_ConstrainProportionsScale: 1
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1094897237}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1922036238
 GameObject:
@@ -13495,20 +13529,18 @@ SceneRoots:
   - {fileID: 1183336351}
   - {fileID: 1954914311}
   - {fileID: 1143401024}
+  - {fileID: 495470515}
   - {fileID: 108103494}
   - {fileID: 693623305}
   - {fileID: 1224584712}
   - {fileID: 350941464}
   - {fileID: 182293423}
-  - {fileID: 1437537486}
   - {fileID: 1253907936}
   - {fileID: 610867363}
   - {fileID: 1094897237}
-  - {fileID: 495470515}
   - {fileID: 1948664549}
   - {fileID: 1922036242}
   - {fileID: 1814668385}
   - {fileID: 1556362917}
   - {fileID: 382432021}
   - {fileID: 2044229722}
-  - {fileID: 1920767246}
